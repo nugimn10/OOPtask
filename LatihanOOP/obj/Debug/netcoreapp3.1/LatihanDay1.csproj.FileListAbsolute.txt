@@ -1,0 +1,11 @@
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\bin\Debug\netcoreapp3.1\LatihanDay1.exe
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\bin\Debug\netcoreapp3.1\LatihanDay1.deps.json
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\bin\Debug\netcoreapp3.1\LatihanDay1.runtimeconfig.json
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\bin\Debug\netcoreapp3.1\LatihanDay1.runtimeconfig.dev.json
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\bin\Debug\netcoreapp3.1\LatihanDay1.dll
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\bin\Debug\netcoreapp3.1\LatihanDay1.pdb
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\obj\Debug\netcoreapp3.1\LatihanDay1.csprojAssemblyReference.cache
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\obj\Debug\netcoreapp3.1\LatihanDay1.AssemblyInfoInputs.cache
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\obj\Debug\netcoreapp3.1\LatihanDay1.AssemblyInfo.cs
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\obj\Debug\netcoreapp3.1\LatihanDay1.dll
+C:\Users\Nugi\source\repos\LatihanDay1\LatihanDay1\obj\Debug\netcoreapp3.1\LatihanDay1.pdb
